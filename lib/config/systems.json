@@ -1,0 +1,11 @@
+{
+    "file" : {
+        "functionFile" : "file"
+    },
+    "mysql" : {
+
+    },
+    "mongo" : {
+        "functionFile" : "mongo"
+    }
+}

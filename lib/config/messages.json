@@ -1,0 +1,9 @@
+{
+    "system" : "SYSTEM",
+    "SYSTEM_NOT_FOUND" : "System Not Found",
+    "option" : "OPTION",
+    "OPTION_MISSING" : "Option ",
+    "OPTION_NOT_OBJECT" : "Option should be obejct",
+    "SYSTEM_CONFIG_MISSING" : "System config missing",
+    "SETUP": "System Setting Added"
+}
